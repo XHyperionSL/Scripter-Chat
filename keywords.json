@@ -1,1 +1,9 @@
-
+{
+    "blocked_words": [
+        "discord.gg",
+        ".com",
+        "badword1",
+        "badword2"
+    ],
+    "system_message": "Your message contains a blocked keyword and was not sent."
+}
